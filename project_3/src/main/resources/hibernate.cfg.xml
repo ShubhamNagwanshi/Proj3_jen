@@ -51,7 +51,7 @@
 			<!-- <mapping resource="in/co/rays/project_3/dto/LessionDTO.hbm.xml" /> -->
 			<!--  <mapping resource="in/co/rays/project_3/dto/ProductDTO.hbm.xml" /> 
 			<mapping resource="in/co/rays/project_3/dto/ProductNameDTO.hbm.xml" /> -->
-			<mapping resource="in/co/rays/project_3/dto/IssueDTO.hbm.xml" />
+			<!-- <mapping resource="in/co/rays/project_3/dto/IssueDTO.hbm.xml" /> -->
 <mapping resource="in/co/rays/project_3/dto/SalaryDTO.hbm.xml" />
 <mapping resource="in/co/rays/project_3/dto/VehicleTrackingDTO.hbm.xml" />
 
