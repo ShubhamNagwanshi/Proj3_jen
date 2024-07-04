@@ -52,9 +52,9 @@
 			<!--  <mapping resource="in/co/rays/project_3/dto/ProductDTO.hbm.xml" /> 
 			<mapping resource="in/co/rays/project_3/dto/ProductNameDTO.hbm.xml" /> -->
 			<!-- <mapping resource="in/co/rays/project_3/dto/IssueDTO.hbm.xml" /> -->
-<mapping resource="in/co/rays/project_3/dto/SalaryDTO.hbm.xml" />
+<!-- <mapping resource="in/co/rays/project_3/dto/SalaryDTO.hbm.xml" />
 <mapping resource="in/co/rays/project_3/dto/VehicleTrackingDTO.hbm.xml" />
-
+ -->
 		<!--<mapping class="in.co.rays.project_3.dto.UserDTO"/> <mapping class="in.co.rays.project_3.dto.CollegeDTO"/> 
 			<mapping class="in.co.rays.project_3.dto.CourseDTO"/> <mapping class="in.co.rays.project_3.dto.FacultyDTO"/> 
 			<mapping class="in.co.rays.project_3.dto.MarksheetDTO"/> <mapping class="in.co.rays.project_3.dto.RoleDTO"/> 
